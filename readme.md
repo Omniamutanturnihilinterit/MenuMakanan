@@ -1,8 +1,8 @@
 <div id="top"></div>
 <div align="center">
-    <img src="./src/">
+    <h1  align="center" >Rumah Makan menggunakan React.js</h1>
+    <img src="./src/image.png">
 </div>
-<h1  align="center" >Restaurant Menu using React.js</h1>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -31,13 +31,9 @@ A categorize navigation to see the menu list based on the category.
 
 ## Overview
 
-* [Repo Codes](https://github.com/ijayhub/menulist)
+* [Repo Codes](https://github.com/Omniamutanturnihilinterit/MenuMakanan)
 
-* [Hosted Link](https://nigerian-meals.netlify.app/)
-
-
-* [Blog](https://ijaycent.hashnode.dev/creating-a-menu-using-reactjs)
-
+* [Hosted Link](https://rumah-makan-bu-haji-sumarni.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
